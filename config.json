@@ -1,13 +1,13 @@
 {
 	
-	"Installation" : {
-		"appsflyer" : "1683441506104-3122813650812437992",
-		"advertisingId" : "3b131184-2e8b-44c7-afd8-39e95bd716ad"
-		},
+	"Application" : {
+		"Name" : "MolaTV",
+		"Version" : "2.2.6.10"
+	},
 	
 	"MolaTV" : {
-		"Model" : "2K PA Smart TV",
-		"Password" : "Sangkara"
+		"Password" : "Sangkara",
+		"Model" : "UA43T6500AKXXD"
 	}
-
+	
 }
