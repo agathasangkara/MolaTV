@@ -313,7 +313,7 @@ def run_thread(red, yellow, white):
 
 os.system('cls' if os.name == "nt" else 'clear')
 print(f"{cyan}\n  .-.            .;      .-.;;;;;;'          \n         .;|/:        .;'     (_)  .;.;.       .-. \n        .;   : .-.   .;  .-.       :  `;     .'    \n       .;    :;   ;'::  ;   :    .:'   ;;  .'      \n   .:'.;     :`;;'_;;_.-`:::'-'.-:._  ;;  ;        \n  (__.'      `.               (_/  `- `;.'\n")
-print(f'\n {white} Mola TV Mass create (proxy) - Agathasangkara')
+print(f'\n {white} Mola TV Mass create (proxy) - Agathasangkara\n  Dana : 0895415306281 - Telegram : https://t.me/kumpulanorangdongo')
 print(f'\n  1. {red}Create Unlimited Account Mola TV\n {white} 2. {red}Generate Code Activation{white}\n')
 
 opsi = input(f'  Choose : {yellow}')
